@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/keena/CLionProjects/hangmanChallenge/main.cpp
+iostream
+-
+string
+-
+cstdlib
+-
+ctime
+-
+vector
+-
+

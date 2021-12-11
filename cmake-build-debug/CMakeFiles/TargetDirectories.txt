@@ -1,0 +1,3 @@
+C:/Users/keena/CLionProjects/hangmanChallenge/cmake-build-debug/CMakeFiles/hangmanChallenge.dir
+C:/Users/keena/CLionProjects/hangmanChallenge/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/keena/CLionProjects/hangmanChallenge/cmake-build-debug/CMakeFiles/rebuild_cache.dir
