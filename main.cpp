@@ -196,7 +196,7 @@ void updateSecretWordVector(std::vector<char>& secretWord, std::vector<int>& cor
     for (int i : correctGuessIndex) {
         secretWord.at(i) = userGuess;
     }
-    for (unsigned int i = correctGuessIndex.size() - 1; i >= 0; --i) {
+    for (int i = correctGuessIndex.size() - 1; i >= 0; --i) {
         correctGuessIndex.erase(correctGuessIndex.begin() + i);
     }
 }
