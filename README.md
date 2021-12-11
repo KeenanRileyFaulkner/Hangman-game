@@ -6,4 +6,4 @@ In order to compile source code on the command line, you will need to have MinGW
 g++ -std=c++11 -Wall Main.cpp -o Main.exe
 
 # Note on time spent
-I spent 3 hours and 50 mins developing this program, including planning and coding. The comments found in main.cpp represent my early-stage development of the programs, as I planned which methods to implement and how to achieve the program requirements.
+I spent 3 hours and 50 mins developing this program, including planning and coding. The comments found in main.cpp represent my early-stage development of the programs, as I planned which methods to implement and how to achieve the program requirements. If I had additional time, I would have used it to create an actual hangman drawing, and make the program more dynamic (such as by limiting the number of incorrect responses before receiving a game over).
