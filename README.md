@@ -1,5 +1,5 @@
 # Hangman-game
-This program should run by downloading the main.exe file, navigating to the directory for the file on the command code, and executing Main.exe on the command line.
+This program should run by downloading the main.exe file, navigating to the directory for the file on the command line, and executing Main.exe on the command line.
 
 In order to compile source code on the command line, you will need to have MinGW installed. After installing MinGW and making sure that the path to mingw32 bin is set in your system environmental path variable, you should be able to compile the program from the project directory on the command line using the following prompt:
 
